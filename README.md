@@ -1,1 +1,1 @@
-This is a C# Thrift Server
+This is a C# Thrift example server
