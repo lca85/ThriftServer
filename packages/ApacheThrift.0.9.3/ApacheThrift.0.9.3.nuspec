@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ApacheThrift</id>
+    <version>0.9.3</version>
+    <title>Apache Thrift 0.9.3</title>
+    <authors>Apache Thrift</authors>
+    <owners>Apache Thrift</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://thrift.apache.org/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Apache Thrift .NET Library</description>
+    <releaseNotes>Apahce Thrift 0.9.3</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Apache Thrift</tags>
+  </metadata>
+</package>
